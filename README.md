@@ -10,7 +10,7 @@
 
 ## :trophy: What I'm striving to improve:
 
-I really enjoy C# and .Net framework, and always looking to improve my skills and understanding of them.
+### I really enjoy C# and .Net framework, and always looking to improve my skills and understanding of them.
 
 ## :books: A few links:
 
