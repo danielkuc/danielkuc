@@ -5,7 +5,7 @@
 - Backend development : C# / .Net
 - Frontend development : Javascript / React
 - Cloud : Azure
-- Databases: MySql / MongoDB
+- Databases: MySql / ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### What I'm learning next:
 - C#, .NET6, I'm currently building a project based on those technologies, which will be linked in my portfolio.
