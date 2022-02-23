@@ -7,10 +7,8 @@
 - Cloud : ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - Databases: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### What I'm learning next:
-- C#, .NET6, I'm currently building a project based on those technologies, which will be linked in my portfolio.
-- MongoDB, I intend to use it in the project as my database.
-- Azure for cloud services.
+## :trophy: What I'm striving to improve:
+I really enjoy C# and .Net framework, and always looking to improve my skills and understanding of them.
 
 <!---
 danielkuc/danielkuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
