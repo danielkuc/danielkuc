@@ -11,7 +11,7 @@
 I really enjoy C# and .Net framework, and always looking to improve my skills and understanding of them.
 
 ## :books: A few links:
-[My portfolio] (https://danielkuc.com/)
+[My portfolio](https://danielkuc.com/)
 
 <!---
 danielkuc/danielkuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
