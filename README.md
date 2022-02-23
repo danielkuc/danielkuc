@@ -1,7 +1,7 @@
 # Hi there!:wave: I'm Dan.
 ### A self-taught software developer and aspiring backend developer.
 
-##:wrench: What I work with:
+## :wrench: What I work with:
 - Backend development : C# / .Net
 - Frontend development : Javascript / React
 - Cloud : Azure
