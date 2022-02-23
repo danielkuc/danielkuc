@@ -15,6 +15,8 @@ I really enjoy C# and .Net framework, and always looking to improve my skills an
 <br>
 [LinkedIn](https://www.linkedin.com/in/daniel-kuc-3b9486230/)
 
+## <div align="center" >:bar_chart: Stats</div>
+
 <!---
 danielkuc/danielkuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
