@@ -1,4 +1,4 @@
-# Hi there! I'm Dan:smile:.
+# Hi there!:wave: I'm Dan.
 ### Few words about me:
 Few years ago I've discovered programming is not as difficult as it seems (it's much more difficult), completely fell in love with it and decided to pursue web development as a career. I enjoy learning, able to switch between perfectionism and pragmatism and love a challange.
 The green dots on my GitHub profile represent my journey from being curious about programing to becoming proficient and confident developer, gaps are mainly learning periods.
