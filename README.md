@@ -10,6 +10,9 @@
 ## :trophy: What I'm striving to improve:
 I really enjoy C# and .Net framework, and always looking to improve my skills and understanding of them.
 
+## :books: A few links:
+[https://danielkuc.com/] (My portfolio)
+
 <!---
 danielkuc/danielkuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
