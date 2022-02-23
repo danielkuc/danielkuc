@@ -1,5 +1,5 @@
 # Hi there!:wave: I'm Dan.
-## A self-taught software developer and aspiring backend developer
+### A self-taught software developer and aspiring backend developer.
 
 ### Technologies I work with:
 - My main expertise lies in Javascript and related front-end technologies: React, Html with CSS.
