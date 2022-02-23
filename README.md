@@ -19,7 +19,8 @@ I really enjoy C# and .Net framework, and always looking to improve my skills an
 [LinkedIn](https://www.linkedin.com/in/daniel-kuc-3b9486230/)
 
 ## <div align="center" >:bar_chart: Stats</div>
-<div align="center" >[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielkuc&theme=dark)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielkuc&theme=dark)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkuc&hide=blade,css,hack,shell,scss&layout=compact)](https://github.com/danielkuc/github-readme-stats)
 
 <!---
