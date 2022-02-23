@@ -3,6 +3,7 @@
 Few years ago I've discovered programming is not as difficult as it seems (it's much more difficult), completely fell in love with it and decided to pursue web development as a career. I enjoy learning, able to switch between perfectionism and pragmatism and love a challange.
 The green dots on my GitHub profile represent my journey from being curious about programing to becoming proficient and confident developer, gaps are mainly learning periods.
 
+[Click on this](Thechnologies)
 ### Technologies I work with:
 - My main expertise lies in Javascript and related front-end technologies: React, Html with CSS.
 - Bootstrap and styled-components for layout and styling.
