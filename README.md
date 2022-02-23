@@ -1,11 +1,11 @@
 # Hi there!:wave: I'm Dan.
 ### A self-taught software developer and aspiring backend developer.
 
-### Technologies I work with:
-- My main expertise lies in Javascript and related front-end technologies: React, Html with CSS.
-- Bootstrap and styled-components for layout and styling.
-- I've worked with PHP and Laravel, MVC architecture and API, and used Sass in a few projects.
-- Used relational databases, I'm most familiar with MySql.
+##:wrench: What I work with:
+- Backend development : C# / .Net
+- Frontend development : Javascript / React
+- Cloud : Azure
+- Databases: MySql / MongoDB
 
 ### What I'm learning next:
 - C#, .NET6, I'm currently building a project based on those technologies, which will be linked in my portfolio.
