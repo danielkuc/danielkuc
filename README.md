@@ -20,6 +20,7 @@ I really enjoy C# and .Net framework, and always looking to improve my skills an
 
 ## <div align="center" >:bar_chart: Stats</div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielkuc&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkuc)]
 
 <!---
 danielkuc/danielkuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
