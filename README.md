@@ -14,7 +14,7 @@
 
 ## :books: A few links:
 
-[My portfolio](https://danielkuc.com/)
+[<font size="10">My portfolio</font>](https://danielkuc.com/)
 <br>
 [LinkedIn](https://www.linkedin.com/in/daniel-kuc-3b9486230/)
 
