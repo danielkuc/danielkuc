@@ -1,5 +1,5 @@
 # Hi there!:wave: I'm Dan.
-### A self-taught software developer and aspiring backend developer.
+### A self-taught programmer and aspiring backend developer.
 
 ## :construction: What I work with:
 
